@@ -7,24 +7,33 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'viyalab',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'viyalab documentation site',
   url: 'https://docs.viyalab.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://viyalab.com/wp-content/uploads/2022/12/cropped-viyalabfavicon.webp',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'viyalab', // Usually your GitHub org/user name.
   projectName: 'docs.viyalab', // Usually your repo name.
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'tr'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-US'
+      },
+      tr: {
+        htmlLang: 'tr-TR'
+      },
+    },
   },
 
   presets: [
@@ -57,19 +66,21 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Viyalab Logo',
+          src: 'https://viyalab.com/wp-content/uploads/2022/12/viyalabhd2.webp',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             href: 'https://github.com/viyalab',
             label: 'GitHub',
@@ -110,17 +121,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © 2023 Viyalab.`,
       },
       prism: {
         theme: lightCodeTheme,
