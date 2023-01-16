@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_viyalab=self.webpackChunkdocs_viyalab||[]).push([[9653],{8545:e=>{e.exports=JSON.parse('{"title":"Base100","slug":"/category/base100","permalink":"/docs/category/base100","navigation":{"previous":{"title":"PDB","permalink":"/docs/category/pdb"},"next":{"title":"Overview","permalink":"/docs/PDB/Base100/intro"}}}')}}]);
