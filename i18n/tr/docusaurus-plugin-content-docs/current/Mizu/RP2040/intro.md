@@ -32,7 +32,7 @@ kullanabilirsiniz.
 -   16xPWM
 -   IMU sensörü LSM6DS3
 -   Pusula QMC6310
--   BMP280 Barometer (Yalnız Mizu-b modeli)
+-   BMP280 Barometer
 -   Programlanabilir LED
 -   Dahili Mikro SD kart yuvası
 

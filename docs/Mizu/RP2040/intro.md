@@ -29,7 +29,7 @@ Mizu is the control board that you can use in all your robotic projects. It cont
 - 16xPWM
 - IMU sensor LSM6DS3
 - Compass QMC6310
-- BMP280 Barometer (Mizu-b model only)
+- BMP280 Barometer
 - Programmable LED
 - Built-in Micro SD card slot
 

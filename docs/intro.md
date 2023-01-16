@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Docs Info
 
-the documentation site has information about Viyalab original product.
+the documentation site has information about Viyalab original products.
 
 ## Getting Started
 
