@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Döküman Bilgisi
 
-Bu dokümantasyon sitesinde Viyalab orijinal ürünü hakkında bilgiler bulunmaktadır.
+Bu dokümantasyon sitesinde Viyalab orijinal ürünleri hakkında bilgiler bulunmaktadır.
 
 ## Başlarken
 

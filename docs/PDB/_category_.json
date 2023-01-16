@@ -1,6 +1,6 @@
 {
-  "label": "Buck Regulator",
-  "position": 3,
+  "label": "PDB",
+  "position": 4,
   "link": {
     "type": "generated-index",
     "description": "Regulator product"
