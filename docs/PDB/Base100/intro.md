@@ -23,7 +23,7 @@ You can perform safe on-off operations using the Base100, magnetic switch or ext
 
 ## Using with Arduino
 
-With Base100, you can monitor the instantaneous current, voltage and power parameters drawn by the system. To use this feature, make sure you have correctly connected the SDA and SCL pins to your Mizu card. To download the library, go to [this address](https://github.com/viyalab/Base) to download the Arduino library and run the sample code.
+With Base100, you can monitor the instantaneous current, voltage and power parameters drawn by the system. To use this feature, make sure you have correctly connected the SDA and SCL pins to your Mizu card. To download the library, go to [this address](https://github.com/viyalab/Base100) to download the Arduino library and run the sample code.
 ``` cpp
 #include "Wire.h"
 #include <Base.h>

@@ -23,7 +23,7 @@ Base100, manyetik anahtar veya harici mekanik anahtar kullanarak güvenli şekil
 
 ## Arduino ile Kullanımı
 
-Base100 ile sistemin çektiği anlık akım, voltaj ve güç parametrelerini takip edebilirsiniz. Bu özelliği kullanmak için SDA ve SCL pinlerini Mizu kartınıza doğru bağladığınıza emin olun. Kütüphaneyi indirmek için [bu adrese](https://github.com/viyalab/Base) giderek Arduino kütüphanesini indirin ve örnek kodu çalıştırın. 
+Base100 ile sistemin çektiği anlık akım, voltaj ve güç parametrelerini takip edebilirsiniz. Bu özelliği kullanmak için SDA ve SCL pinlerini Mizu kartınıza doğru bağladığınıza emin olun. Kütüphaneyi indirmek için [bu adrese](https://github.com/viyalab/Base100) giderek Arduino kütüphanesini indirin ve örnek kodu çalıştırın. 
 ``` cpp
 #include "Wire.h"
 #include <Base.h>
