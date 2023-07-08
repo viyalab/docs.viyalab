@@ -12,14 +12,27 @@ You can perform safe on-off operations using the Base100, magnetic switch or ext
 
 ## Features
 
-- Maximum Current: 200 Amps
-- Continuous Current: 100 Amps
-- Input Voltage: 6-26 Vdc
-- Battery Types: 2s – 6s
+### Key Features
+
 - Instant current voltage and power monitoring
 - Magnetic switching
 - Extra 2 x 5A mosfets (M1 - M2)
 - External switch
+
+### Electrical Characteristic
+
+- Maximum Current: 200 Amps
+- Continuous Current: 100 Amps
+- Input Voltage: 6-26 Vdc
+- Battery Types: 2s – 6s
+
+### Sensors
+
+- INA219 Current Sensor
+
+### Physically
+
+- Size: 36 x 36 mm
 
 ## Using with Arduino
 

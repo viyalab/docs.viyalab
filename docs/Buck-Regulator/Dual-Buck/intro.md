@@ -12,6 +12,8 @@ In addition to being able to run all your high power cards such as Raspberry, Je
 
 ## Features
 
+### Electrical Characteristic
+
 - Input voltage : 7-36V
 
 - 5V Maximum Output Current: 5000 mA
@@ -23,6 +25,11 @@ In addition to being able to run all your high power cards such as Raspberry, Je
 - Number of 12V Outputs: 3 Pins
 
 - Maximum Connectable Devices: Unlimited
+
+### Physically
+
+- Size: 36 x 36 mm
+- Connector: 2.54 mm Header, XT30
 
 ## 3D Files
 
