@@ -12,14 +12,27 @@ Base100, manyetik anahtar veya harici mekanik anahtar kullanarak güvenli şekil
 
 ## Özellikler
 
-- Azami Akım: 200 Amper
-- Sürekli Akım:  100 Amper
-- Giriş Gerilimi: 6-26 Vdc
-- Pil Türleri: 2s – 6s
+### Ana Özellikler
+
 - Anlık akım voltaj ve güç izleme
 - Manyetik anahtarlama
 - Extra 2 adet 5A mosfet (M1 - M2)
 - Harici anahtar
+
+### Elektriksel Karakteristik
+
+- Azami Akım: 200 Amper
+- Sürekli Akım:  100 Amper
+- Giriş Gerilimi: 6-26 Vdc
+- Pil Türleri: 2s – 6s
+
+### Sensörler
+
+- INA219 Akım sensörü
+
+### Fiziksel
+
+- Boyut: 36 x 36 mm
 
 ## Arduino ile Kullanımı
 

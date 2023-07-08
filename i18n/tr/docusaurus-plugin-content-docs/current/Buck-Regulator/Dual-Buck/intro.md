@@ -12,6 +12,8 @@ Raspberry, Jetson Nano gibi yüksek güç ihtayıcı olan tüm kartlarınızı �
 
 ## Özellikler
 
+### Elektriksel Karakteristik
+
 - Giriş voltajı : 7-34V
 
 - 5V Azami Çıkış Akımı : 5000 mA
@@ -23,6 +25,11 @@ Raspberry, Jetson Nano gibi yüksek güç ihtayıcı olan tüm kartlarınızı �
 - 12V Çıkış sayısı : 3 Pin
 
 - Bağlanabilecek Azami Cihaz : Sınırsız
+
+### Fiziksel
+
+- Boyut: 36 x 36 mm
+- Konektör: 2,54 mm Header, XT30
 
 ## 3D Dosyalar
 

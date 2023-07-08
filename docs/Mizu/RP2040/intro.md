@@ -17,21 +17,43 @@ Mizu is the control board that you can use in all your robotic projects. It cont
 
 ## Features
 
-- Supply Voltage – 3.3V – 5V
-- Pin Voltage – 3.3V
-- Programming via USB
+### Key Features
+
+- Programming via USB type C
 - Dual core ARM M0 architecture microcontroller
 - 8 Mb external flash (program memory)
+
+### Electrical Characteristic
+
+- Supply Voltage – 3.3V – 5V
+- Pin Voltage – 3.3V
+
+:::danger
+
+**DO NOT Apply** 5v logical input to gpio pin.
+
+:::
+
+### Peripherals
+
 - 4xADC(Analog Digital Converter)
 - 2xUART
 - 2xI2C
 - 2xSPI
 - 16xPWM
+
+### Sensors
+
 - IMU sensor LSM6DS3
 - Compass QMC6310
 - BMP280 Barometer
 - Programmable LED
 - Built-in Micro SD card slot
+
+### Physically
+
+- Size: 36 x 36 mm
+- Connector: 2.54 mm Header
 
 ## 3D Files
 

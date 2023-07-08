@@ -20,21 +20,43 @@ kullanabilirsiniz.
 
 ## Özellikler
 
--   Besleme Gerilimi – 3.3V – 5V
--   Pin Gerilim Değeri – 3.3V
+### Ana Özellikler
+
 -   Programlama USB üzerinden
 -   Çift çekirdekli ARM M0 mimarisi mikrodenetleyici
 -   8 Mb harici flash(program hafızası)
+
+### Elektriksel Karakteristik
+
+-   Besleme Gerilimi – 3.3V – 5V
+-   Pin Gerilim Değeri – 3.3V
+
+:::danger
+
+Gpio pinine 5v mantıksal giriş **UYGULAMAYIN**.
+
+:::
+
+### Çevre Birimler
+
 -   4xADC(Analog Digital Converter)
 -   2xUART
 -   2xI2C
 -   2xSPI
 -   16xPWM
+
+### Sensörler
+
 -   IMU sensörü LSM6DS3
 -   Pusula QMC6310
 -   BMP280 Barometer
 -   Programlanabilir LED
 -   Dahili Mikro SD kart yuvası
+
+### Fiziksel
+
+- Boyut: 36 x 36 mm
+- Konnektör: 2,54 mm Header
 
 ## 3D Dosyalar
 
