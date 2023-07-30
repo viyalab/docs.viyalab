@@ -37,7 +37,7 @@ Gpio pinine 5v mantıksal giriş **UYGULAMAYIN**.
 
 :::
 
-### Çevre Birimler
+### Çevre Birimler
 
 -   4xADC(Analog Digital Converter)
 -   2xUART

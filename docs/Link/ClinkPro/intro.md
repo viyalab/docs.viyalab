@@ -18,12 +18,7 @@ To establish communication, you need to have at least 2 units of CLINK Pro.
 
 ## Features
 
-### Electrical Characteristic
-
-- Supply voltage: 3.7 – 5V (VBAT) – USB Type-C (VBUS)
-- Power Consumption(Max): 5 W
-
-### Performance
+### Key Features
 
 - Practical Bandwidth: 100 Mbps
 - Physical Layer Bandwidth (PHY): 500 Mbps
@@ -34,6 +29,12 @@ To establish communication, you need to have at least 2 units of CLINK Pro.
 300 meters is the distance to be communicated when used with a power line.
 
 :::
+
+### Electrical Characteristic
+
+- Supply voltage: 3.7 – 5V (VBAT) – USB Type-C (VBUS)
+- Power Consumption(Max): 5 W
+
 
 ### Physically
 

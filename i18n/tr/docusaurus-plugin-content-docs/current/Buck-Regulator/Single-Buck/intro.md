@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Overview
+# Genel Bakış
 
 ## Pin Diyagramı
 
@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Küçük alanlarda yüksek güç ihtiyacınız için özel olarak tasarlanan kaliteli komponentler kullanılarak üretilen yüksek verimli sabit regülatördür. Özellikle Raspberry Pi, Jetson Nano gibi yüksek güç ihtiyacı olan donanımlarda kullanabilirsiniz. 7S’e kadar Li-Po pil bağlantısı yapılabilir.
 
-## Features
+## Özellikler
 
 ### Elektriksel Karakteristik
 
@@ -22,7 +22,7 @@ Küçük alanlarda yüksek güç ihtiyacınız için özel olarak tasarlanan kal
 
 - Maksimum Bağlanabilir Cihaz Sayısı: Sınırsız
 
-### Fiziksel olarak
+### Fiziksel
 
 - Boyut: 37.4 x 17 mm
 - Konnektör 2,54 mm Header

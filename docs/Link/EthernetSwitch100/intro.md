@@ -12,16 +12,18 @@ The Viyalab Ethernet switch is a 5-port 10/100 Ethernet switch. It is designed t
 
 ## Features
 
+### Key Features
+
+- 100Mbps connection speed
+- Ethernet connection up to 5 ports
+- Loop detection
+
 ### Electrical Characteristic
 
 - Supply voltage : 3.7 – 5V (VBAT) – USB Type-C (VBUS)
 - Power Consumption(Max) : 393,5 mW
 - POE : Not supported
 
-### Performance
-
-- 100 Mbps
-- 5 port
 
 ### Physically
 
