@@ -12,16 +12,17 @@ Viyalab Ethernet switch, 5 portlu bir 10/100 Ethernet switch'tir. Bu özellikler
 
 ## Özellikler
 
+### Ana Özellikler
+
+- 100 Mbps bağlantı hızı
+- 5 porta kadar ethernet bağlantısı
+- Loop algılama
+
 ### Elektriksel Karakteristik
 
 - Besleme gerilimi : 3,7 – 5V (VBAT) – USB Type-C (VBUS)
 - Güç Tüketimi(Max) : 393,5 mW
 - POE : Desteklenmiyor
-
-### Performans
-
-- 100 Mbps
-- 5 port
 
 ### Fiziksel
 

@@ -18,12 +18,7 @@ Haberleşmeyi gerçekleştirmek için en az 2 adet ClinkPro almanız gerekmekted
 
 ## Özellikler
 
-### Elektriksel Karakteristik
-
-- Besleme voltajı: 3,7 – 5V (VBAT) – USB Type-C (VBUS)
-- Güç Tüketimi (Maks): 5 W
-
-### Performans
+### Ana Özellikler
 
 - Pratik Bant Genişliği: 100 Mbps
 - Fiziksel Katman Bant Genişliği (PHY): 500 Mbps
@@ -34,6 +29,12 @@ Haberleşmeyi gerçekleştirmek için en az 2 adet ClinkPro almanız gerekmekted
 300 metre enerji hattı ile birlikte kullanımında haberleşilecek mesafedir ekranlı kablo ve sadece sinyal hattı ile kullanımda daha uzak mesafelerden iletişim sağlanabilir.
 
 :::
+
+### Elektriksel Karakteristik
+
+- Besleme voltajı: 3,7 – 5V (VBAT) – USB Type-C (VBUS)
+- Güç Tüketimi (Maks): 5 W
+
 
 ### Fiziksel
 
