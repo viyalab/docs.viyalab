@@ -31,7 +31,7 @@ The SW Power Module provides a safe switching solution that allows you to quickl
 
 - Dimension: 48.75 x 43 mm
 
-## Pixhawk ile Kullanımı
+## Using with Pixhawk
 
 For the usage of the SW Power Module with Pixhawk, you need to start by soldering the Pixhawk Power input pins in sequence under the SW Power Module. The table below lists the Pixhawk Power pins in order. The VCC and GND pins from these should be used to power the Pixhawk with 5V. The Current, Voltage, and GND pins should be connected to the pins under the Power Module.
 
