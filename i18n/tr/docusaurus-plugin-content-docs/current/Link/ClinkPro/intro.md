@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ![Docs Version Dropdown](https://viyalab.com/wp-content/uploads/2023/07/PLCmodule.webp)
 
-CLINK Pro adı verilen cihaz, ROV gibi uzak platformlu cihazlar için kullanılabilen bir iletişim cihazıdır. Cihaz, yüksek hızlı ve uzun mesafeli Ethernet bağlantısı sağlar ve standart Cat5 kablosu veya herhangi bir çift sarmal bulunan kabloyu haberleşme kablosu olarak kullanabilir. CLINK Pro, HomePlug AV (IEEE-1901) standardını kullanarak Ethernet verilerini güç hatları üzerinden iletebilen bir HomePlug modülü içerir. Bu sayede, cihazlar arasındaki iletişim kablosu olarak enerji hatları kullanılabilir. Cihaz, hem DC hem AC sinyallerini haberleşme hattı üzerinde kullanabilen bir yapıdadır. 
+CLINK Pro, ROV gibi uzak platformlu cihazlar için kullanılabilen bir iletişim cihazıdır. Cihaz, yüksek hızlı ve uzun mesafeli Ethernet bağlantısı sağlar ve standart Cat5 kablosu veya herhangi bir çift sarmal bulunan kabloyu haberleşme kablosu olarak kullanabilir. CLINK Pro, HomePlug AV (IEEE-1901) standardını kullanarak Ethernet verilerini güç hatları üzerinden iletebilen bir HomePlug modülü içerir. Bu sayede, cihazlar arasındaki iletişim kablosu olarak enerji hatları kullanılabilir. Cihaz, hem DC hem AC sinyallerini haberleşme hattı üzerinde kullanabilen bir yapıdadır. 
 
 :::note
 
