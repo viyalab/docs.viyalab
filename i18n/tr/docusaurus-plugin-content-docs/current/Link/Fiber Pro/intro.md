@@ -23,12 +23,12 @@ Haberleşmeyi gerçekleştirmek için en az 2 adet Fiber Pro almanız gerekmekte
 - Pratik Bant Genişliği: 1 Gbps
 - İletişim mesafesi: 3 – 100 km
 
-### Electrical Characteristic
+### Elektriksel Karakteristik
 
 - Besleme voltajı : 3.7 – 5V (VBAT) – USB Type-C (VBUS)
 - Güç Tüketimi(Max) : 3 W
 
-### Physically
+### Fiziksel
 
 - Boyut: 61 x 44 mm
 - Vida delik çapı: 3.1 mm
